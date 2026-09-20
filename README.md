@@ -353,7 +353,7 @@ Machine Learning projects
 
 👩‍💻 Author
 
-Kancharla Mounika
+Yeresi Venkata Ramagopal Reddy
 
 B.Tech – Data Science
 
