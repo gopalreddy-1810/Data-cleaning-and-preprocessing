@@ -1,5 +1,4 @@
 # Data-cleaning-and-preprocessing
-# Data-cleaning-and-preprocessing
 🛒 Superstore Data Cleaning & Preprocessing
 
 A Python-based data cleaning and preprocessing project using the Superstore dataset. The project focuses on identifying data quality issues, handling missing values, checking data types, removing inconsistencies, and preparing a clean dataset for further analysis.
